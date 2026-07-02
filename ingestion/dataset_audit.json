@@ -1,0 +1,27 @@
+{
+    "Bracelet": {
+        "train": 523,
+        "val": 131,
+        "test": 20
+    },
+    "Necklace": {
+        "train": 351,
+        "val": 86,
+        "test": 20
+    },
+    "Earring": {
+        "train": 181,
+        "val": 46,
+        "test": 20
+    },
+    "Ring": {
+        "train": 184,
+        "val": 46,
+        "test": 20
+    },
+    "Pendant": {
+        "train": 191,
+        "val": 48,
+        "test": 20
+    }
+}

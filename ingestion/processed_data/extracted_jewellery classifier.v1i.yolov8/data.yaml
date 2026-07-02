@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['24 KT COIN', 'ARMBELT', 'BANGLE', 'BRACELET', 'CHAIN', 'EAR WEAR', 'FINGER RING', 'NECKLACE', 'NOSE SCREW', 'Pendant', 'VODIYANAM']
+
+roboflow:
+  workspace: kumar-aditya
+  project: jewellery-classifier-bsplp
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kumar-aditya/jewellery-classifier-bsplp/dataset/1

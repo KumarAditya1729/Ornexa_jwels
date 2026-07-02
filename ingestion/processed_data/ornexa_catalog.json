@@ -1,0 +1,63 @@
+[
+    {
+        "product_name": "Elegant Diamond Ring",
+        "product_url": "https://example.com/elegant-diamond-ring",
+        "images": [
+            "https://picsum.photos/id/237/200/300",
+            "https://picsum.photos/id/238/200/300"
+        ],
+        "category": "Ring",
+        "subcategory": "Engagement",
+        "style": [],
+        "metal_type": "Gold",
+        "purity": "18K",
+        "gemstones": [
+            "Diamond",
+            "Ruby"
+        ],
+        "weight": 3.5,
+        "price": 45000.0,
+        "currency": "INR",
+        "gender": "Women",
+        "occasion": "Engagement",
+        "description": "A beautiful 18K gold ring with a sparkling diamond.",
+        "collection_name": "Bridal Collection",
+        "source_dataset": "default_ornexa",
+        "mapping_confidence": 1.0,
+        "taxonomy_confidence": 1.0,
+        "canonical_id": "ORNEXA_00001",
+        "local_images": [
+            "product_images/Elegant_Diamond_Ring/image_-1538276707110765230.jpg",
+            "product_images/Elegant_Diamond_Ring/image_-6709292301243858610.jpg"
+        ]
+    },
+    {
+        "product_name": "Classic Gold Chain",
+        "product_url": "https://example.com/classic-gold-chain",
+        "images": [
+            "https://picsum.photos/id/239/200/300"
+        ],
+        "category": "Necklace",
+        "subcategory": "Chain",
+        "style": [
+            "Traditional"
+        ],
+        "metal_type": "Gold",
+        "purity": "22K",
+        "gemstones": [],
+        "weight": 15.0,
+        "price": 90000.0,
+        "currency": "INR",
+        "gender": "Unisex",
+        "occasion": "Daily Wear",
+        "description": "A sturdy 22K gold chain for everyday elegance.",
+        "collection_name": "Essentials",
+        "source_dataset": "default_ornexa",
+        "mapping_confidence": 0.93,
+        "taxonomy_confidence": 1.0,
+        "canonical_id": "ORNEXA_00002",
+        "local_images": [
+            "product_images/Classic_Gold_Chain/image_8649103319408353844.jpg"
+        ]
+    }
+]

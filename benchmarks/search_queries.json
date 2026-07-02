@@ -1,0 +1,33 @@
+[
+    {
+        "query": {
+            "category": "Necklace",
+            "metal": "Gold"
+        },
+        "expected_min_results": 1,
+        "expected_ids": ["ORNEXA_00002"]
+    },
+    {
+        "query": {
+            "category": "Ring",
+            "gemstone": "Diamond"
+        },
+        "expected_min_results": 1,
+        "expected_ids": ["ORNEXA_00001"]
+    },
+    {
+        "query": {
+            "category": "Earrings",
+            "style": "Polki"
+        },
+        "expected_min_results": 0,
+        "expected_ids": []
+    },
+    {
+        "query": {
+            "metal": "Silver"
+        },
+        "expected_min_results": 0,
+        "expected_ids": []
+    }
+]

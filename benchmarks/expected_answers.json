@@ -1,0 +1,402 @@
+[
+    {
+        "image": "train_185A2299_jpg.rf.d3942e14cb4ccddb4de0bdc99b3fe1da_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "test_117A3951_jpg.rf.9df2416f7c05ec7e30c498cc9a35e10f_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "valid_117A3886_jpg.rf.30a3fac9bb242c86fa6f9e581d74f7b5_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A3858_jpg.rf.5bc26a3daac98fad76b68e38057378c1_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A4010_jpg.rf.cd919a63755d12e1486ff2dba5e4df24_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "valid_117A3878_jpg.rf.b15bd4dbc157d856fdec457473633b92_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "test_117A4002_jpg.rf.a94637858d521cc2819fbcc62f6a3c6e_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "valid_117A3726_jpg.rf.faecd1a72f98d3b365e0e69890e62a24_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A4039_jpg.rf.0b7b7b00e05c442b881dad5d281d713f_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "test_117A3887_jpg.rf.b47bbeec8832dd69e33fb96db09955d4_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A4008_jpg.rf.2ab2fcd702b7410cbc61efdd15d3a7db_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A4019_jpg.rf.71db4113d93adc01b8af4ef361fce34d_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A3999_jpg.rf.62210fd487b9166a0159ae1264a62312_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A3952_jpg.rf.00594dc3974d14dc7ec8ae39c3bba847_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A3981_jpg.rf.c760b0caaddbe3eefb54dee3b6f402c4_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A3879_jpg.rf.d95700b37c7766ac0bd8c20320aa804a_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_405A3051_jpg.rf.6da79c5971e6862d1b24650c1feb0692_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "valid_117A3918_jpg.rf.c36b02eb41c66bec806101d78c434534_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A4102_jpg.rf.59cd656ab8e7cf95da73f97383534297_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_117A4058_jpg.rf.00820665b2ca59af28fc8fb732b03e60_0.jpg",
+        "expected_category": "Ring"
+    },
+    {
+        "image": "train_122A2995_jpg.rf.9f63f12ea3b65821e1e09b42bb8d5e25_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_102A10372_jpg.rf.7df2f38f0f91e53ea329f6898495959f_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_137A42914_jpg.rf.cb72e98915308a1fc3759b6dac53db2c_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_137A43772_jpg.rf.200111e03d0b6893793ec1960e75b835_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_102A10287_jpg.rf.abaf7150001b1b29fda8a0b2785f3167_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_122A2939_jpg.rf.b4966c11ee4732530e43e5869b3c0748_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_137A42735_jpg.rf.f990da0b72f7714ef922b1de567ece32_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_137A43225_jpg.rf.29babda8eac281b3cf1c907bfd89269d_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_177A4178_jpg.rf.8d3a9d32dec043142f3a7e0a8ca03c41_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_122A2990_jpg.rf.f570c3148a7273ca97218ba2a1f24f9e_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_177A4075_jpg.rf.3f0f41767adf99661e934a96ba6bef78_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_122A2975_jpg.rf.912ab3fd99549b678b22d89c513fd782_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_122A2895_jpg.rf.354b4a8a52ce0d191540c8f45e1b8f58_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_122A2530_jpg.rf.6621ff50b0959597789daa0af5cbd4be_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_102A10055_jpg.rf.a5e479be96adc40ecf26451e06d67082_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_106A106661_jpg.rf.16eba55fd7b6389c374dc479f55ed907_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_122A3029_jpg.rf.647ea1a353b056a3c643dfa485d8f2f2_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_102A10261_jpg.rf.2f6b66f7299d157091d049447fb19915_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_137A43803_jpg.rf.bc74635217273e8de1b2e3a82885dcb9_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "valid_122A2717_jpg.rf.1379517270894d277d55290430d90ee1_0.jpg",
+        "expected_category": "Necklace"
+    },
+    {
+        "image": "train_193A1520_jpg.rf.084d05f020521631528d80c0919d0e60_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A2228_jpg.rf.2061c638a9924eafeeb72a2d1e2e1ee4_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_123A78_jpg.rf.5a8f39309e8e56adfb7bd1bdfc0940bb_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1661_jpg.rf.3880529f3618f25d4037fbe9437dcf22_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1556_jpg.rf.15751a1be998acd2c27be5ea0e4b9e24_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "valid_193A2161_jpg.rf.a0a0ce125a0bfed636173eeb3209df3c_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "valid_193A2151_jpg.rf.691e3fa3f18707edae993dc8ba4d09a9_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A2106_jpg.rf.aa1742cd6895a554977f389036a34b0b_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A2043_jpg.rf.8bae0c0a763796b889ffc0d544e7b94f_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "test_193A2229_jpg.rf.665716c487cf87c574dec4a159b400ab_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1837_jpg.rf.7e8ee8a00f30043a9bc81b49d21168e5_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "valid_193A1588_jpg.rf.e663fc7e31c0bb83f91f70eb141bb2b4_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A2111_jpg.rf.450899ecb11098c9941eebae3ed57e55_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1904_jpg.rf.65061ee8b0c0e09f3616e02acc3163be_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1787_jpg.rf.4369f64cb4d98d402af9fe52248ddb38_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "test_193A2169_jpg.rf.702a813574cb15527d57d6b4e88e1c71_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "valid_193A2050_jpg.rf.210c959268141b901c5369958545ade8_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_123A122_jpg.rf.8c33f63b47d878bd6e49f2fbc44e6802_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1534_jpg.rf.d214f45d8a61345dc8862a4acff3772e_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_193A1963_jpg.rf.adba660c3f4a35dee258ca3736138e23_0.jpg",
+        "expected_category": "Pendant"
+    },
+    {
+        "image": "train_139A4366_jpg.rf.24e6b20a688fe1e6732617c7bfbebf9c_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "valid_139A65255_jpg.rf.2c75f19c2a5b9e7234487879593934f9_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "test_103A16380_jpg.rf.9f9f192da44be5f5214dcc84c9de99ce_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_103A16265_jpg.rf.e4ec53d9e5c21cb2be3de9617af746d1_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_103A16403_jpg.rf.d7024a907a0d6b3456d26196515e9b82_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A65228_jpg.rf.25ef680610e5cf2097c2dbddc8a1197a_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "test_182A2808_jpg.rf.c7007a35500d88adca1b7f0d280f54ed_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_103A16236_jpg.rf.36afd7f0bc27f9f792ce65c321d30003_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A64645_jpg.rf.f65c3081b32fbc2638941c86fa8b17f3_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A64458_jpg.rf.023941e9d0702e36d198641f8a20bf4a_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A65045_jpg.rf.04d9f30046eff23c9a3ac657b2a53d9f_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_103A16395_jpg.rf.af04607f2622ebeda804a19ca2fe205e_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "test_103A16504_jpg.rf.3daea82b8b37e696594e2b6b314fedad_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A64913_jpg.rf.ce570c060c263a07ce3f91a6459b5fbd_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "valid_103A16288_jpg.rf.6ea66c45a658e50a513a8455eecd06de_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_103A16584_jpg.rf.0f98d0ebd552dff859843e0f7612bb36_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "test_103A15978_jpg.rf.eba177b6c4e0cb92023a376e9b33b526_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A65408_jpg.rf.6042f6b734f1138a2a07a77cc5c6ac07_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_103A16632_jpg.rf.f9bab031f7232fabc96deb92a90406ad_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "train_139A64450_jpg.rf.5479865ab6b93c806fb91ac3af688ad0_0.jpg",
+        "expected_category": "Earring"
+    },
+    {
+        "image": "test_181A12028_jpg.rf.c01fa81ac66b73d4ca9d71216cd803f1_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A9018_jpg.rf.7e8b41ee9345ea310bca9dc9ff257596_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A9795_jpg.rf.4ede0f15f876234439831954e3daf02a_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A10484_jpg.rf.5984e43d5c6d5b97eaa330edde8115fe_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "valid_135A17076_jpg.rf.580c76c5e95b85c0bff83a847fc52482_1.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A10480_jpg.rf.e13265e8f22ff57cf9a9a32f2d2383e8_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "valid_401A2358_jpg.rf.35a39923e4421dd28fa1541379820b20_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "test_181A11003_jpg.rf.a169565219992c470341563b57e2109a_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "test_145A9810_jpg.rf.5e614736822cd7f9be7b2463dce30580_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "valid_135A16593_jpg.rf.f74df97400ec268e91f6ee252b853a4b_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_181A11406_jpg.rf.823559be7ca1ab091d748628e5174d73_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_175A4673_jpg.rf.572dbea804f82cd4d0f415783697e2bb_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A10477_jpg.rf.4dbedee61ad42f08af8ce7eb0dbb9dc5_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A10467_jpg.rf.336f229ada51e8b4219436e1ed37b66f_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_VA210_jpg.rf.89a94d95a0af676b15900868f6927e34_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A9211_jpg.rf.bab9c4af9ab5d4f5a456c3856c84e4e5_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_181A11476_jpg.rf.9295fdd28c653535cba46e601898936b_1.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_181A12048_jpg.rf.78b4825a48bcdf8475f5ac4d68ce1f03_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_145A9610_jpg.rf.0c4195f2ed40294800c75815546b8feb_0.jpg",
+        "expected_category": "Bracelet"
+    },
+    {
+        "image": "train_VCL029-6_jpg.rf.f102dade01cd406cebfa1a970b5a41c3_0.jpg",
+        "expected_category": "Bracelet"
+    }
+]

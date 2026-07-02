@@ -1,0 +1,51 @@
+[
+    {
+        "product_name": "Elegant Diamond Ring",
+        "product_url": "https://example.com/elegant-diamond-ring",
+        "images": [
+            "https://picsum.photos/id/237/200/300",
+            "https://picsum.photos/id/238/200/300"
+        ],
+        "category": "Ring",
+        "subcategory": "Engagement",
+        "metal_type": "Gold",
+        "purity": "18K",
+        "gemstones": [
+            "Diamond",
+            "Ruby"
+        ],
+        "weight": 3.5,
+        "price": 45000.0,
+        "currency": "INR",
+        "gender": "Women",
+        "occasion": "Engagement",
+        "description": "A beautiful 18K gold ring with a sparkling diamond.",
+        "collection_name": "Bridal Collection",
+        "local_images": [
+            "product_images/Elegant_Diamond_Ring/image_5216598475267877864.jpg",
+            "product_images/Elegant_Diamond_Ring/image_-4984435094274893314.jpg"
+        ]
+    },
+    {
+        "product_name": "Classic Gold Chain",
+        "product_url": "https://example.com/classic-gold-chain",
+        "images": [
+            "https://picsum.photos/id/239/200/300"
+        ],
+        "category": "Necklace",
+        "subcategory": "Chain",
+        "metal_type": "Gold",
+        "purity": "22K",
+        "gemstones": [],
+        "weight": 15.0,
+        "price": 90000.0,
+        "currency": "INR",
+        "gender": "Unisex",
+        "occasion": "Daily Wear",
+        "description": "A sturdy 22K gold chain for everyday elegance.",
+        "collection_name": "Essentials",
+        "local_images": [
+            "product_images/Classic_Gold_Chain/image_-1393527972910115200.jpg"
+        ]
+    }
+]

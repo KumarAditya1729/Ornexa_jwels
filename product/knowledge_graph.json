@@ -1,0 +1,110 @@
+{
+    "kundan": {
+        "definition": "Kundan is a traditional form of Indian gemstone jewelry involving a gem set with a gold foil between the stones and its mount, usually for elaborate necklaces and bridal wear.",
+        "related": ["Jadau", "Polki", "Bridal Set", "Meenakari"]
+    },
+    "polki": {
+        "definition": "Polki is jewelry made with uncut, unpolished diamonds in their natural state. It is often set in gold using the kundan technique, offering a raw, rustic brilliance.",
+        "related": ["Kundan", "Jadau", "Diamond"]
+    },
+    "jadau": {
+        "definition": "Jadau is a jewelry crafting technique (not a type of jewelry itself) brought to India by the Mughals. It involves embedding precious stones into a heated gold framework.",
+        "related": ["Kundan", "Polki", "Meenakari"]
+    },
+    "meenakari": {
+        "definition": "Meenakari involves coloring and ornamenting the surface of metals by fusing brilliant colors (enamel) over it in intricate designs, often used on the reverse side of Kundan jewelry.",
+        "related": ["Kundan", "Jadau", "Bikaneri"]
+    },
+    "temple": {
+        "definition": "Temple jewelry is a type of ethnic jewelry designed in various forms of gods and goddesses. Originally made for adornment of deities in South India, it is now popular for classical dancers and brides.",
+        "related": ["Gold", "Antique", "South India"]
+    },
+    "chandbali": {
+        "definition": "Chandbali translates to 'moon earrings'. They are traditional Indian earrings characterized by a crescent moon shape, often adorned with pearls, kundan, or polki.",
+        "related": ["Earrings", "Polki", "Kundan"]
+    },
+    "jhumka": {
+        "definition": "Jhumka (or Jhumki) are traditional bell-shaped earrings native to the Indian subcontinent, known for their distinct shape and hanging elements.",
+        "related": ["Earrings", "Temple", "Antique"]
+    },
+    "mangalsutra": {
+        "definition": "A Mangalsutra is a sacred necklace tied by a groom around the bride's neck during an Indian wedding, symbolizing their marital union. It typically features black beads and a gold pendant.",
+        "related": ["Necklace", "Bridal Set", "Gold"]
+    },
+    "bridal set": {
+        "definition": "A Bridal Set refers to a heavy, cohesive collection of jewelry worn by a bride, typically including a choker, long necklace, earrings, maang tikka, and sometimes armlets.",
+        "related": ["Kundan", "Polki", "Mangalsutra"]
+    },
+    "navaratna": {
+        "definition": "Navaratna is a Sanskrit word meaning 'nine gems' and refers to a talisman or jewelry piece set with nine specific auspicious gemstones representing the celestial bodies.",
+        "related": ["Gemstone", "Ruby", "Diamond", "Emerald"]
+    },
+    "emerald": {
+        "definition": "Emerald is a precious gemstone of the beryl family, prized for its deep green color. It is highly valued in Indian heritage jewelry.",
+        "related": ["Gemstone", "Navaratna", "Kundan"]
+    },
+    "ruby": {
+        "definition": "Ruby is a precious red gemstone. In traditional Indian jewelry, particularly Temple jewelry, rubies (or kemp stones) are frequently used alongside gold.",
+        "related": ["Gemstone", "Navaratna", "Temple"]
+    },
+    "diamond": {
+        "definition": "Diamond is a precious stone consisting of clear and colorless crystalline carbon. When used uncut, it forms Polki jewelry.",
+        "related": ["Gemstone", "Polki", "Navaratna"]
+    },
+    "spinel": {
+        "definition": "Spinel is a gemstone that comes in various colors, often red or blue, historically confused with rubies and sapphires.",
+        "related": ["Gemstone", "Ruby"]
+    },
+    "gold": {
+        "definition": "Gold is a highly sought-after precious metal, ubiquitous in Indian jewelry. 22K purity is standard for traditional pieces.",
+        "related": ["Metal", "Panchaloha", "Temple"]
+    },
+    "panchaloha": {
+        "definition": "Panchaloha is a term for traditional five-metal alloys of sacred significance, often used for making Hindu temple idols and sometimes traditional jewelry.",
+        "related": ["Metal", "Gold", "Temple"]
+    },
+    "rose gold": {
+        "definition": "Rose Gold is a gold and copper alloy known for its pinkish tint, popular in contemporary and modern minimalist jewelry.",
+        "related": ["Metal", "Contemporary", "Gold"]
+    },
+    "oxidised": {
+        "definition": "Oxidised silver or metal is intentionally darkened to give it a vintage, antique, or tribal appearance.",
+        "related": ["Metal", "Antique", "Silver"]
+    },
+    "antique": {
+        "definition": "Antique jewelry refers to pieces that are genuinely old or designed to look heritage and vintage, often featuring a dull or oxidised gold finish.",
+        "related": ["Style", "Temple", "Oxidised"]
+    },
+    "contemporary": {
+        "definition": "Contemporary jewelry features modern, minimalist, or western-inspired designs, often using rose gold or white gold and sleek diamond settings.",
+        "related": ["Style", "Rose Gold", "Diamond"]
+    },
+    "maang tikka": {
+        "definition": "A Maang Tikka is a traditional Indian headpiece worn along the hair parting, featuring a pendant that rests on the forehead.",
+        "related": ["Headpiece", "Bridal Set", "Matha Patti"]
+    },
+    "matha patti": {
+        "definition": "A Matha Patti is an elaborate headpiece with a central maang tikka and extended bands that drape along the hairline on both sides.",
+        "related": ["Headpiece", "Maang Tikka", "Bridal Set"]
+    },
+    "necklace": {
+        "definition": "A necklace is an ornament worn around the neck. Indian styles include chokers, rani haars, and mangalsutras.",
+        "related": ["Mangalsutra", "Bridal Set"]
+    },
+    "earrings": {
+        "definition": "Earrings are worn on the earlobes. Traditional Indian styles include Jhumkas, Chandbalis, and studs.",
+        "related": ["Jhumka", "Chandbali"]
+    },
+    "ring": {
+        "definition": "A ring is a circular band worn as ornamental jewelry around a finger. In Indian traditions, engagement and wedding rings hold significant cultural value.",
+        "related": ["Diamond", "Gold", "Bridal Set"]
+    },
+    "bracelet": {
+        "definition": "A bracelet is an article of jewelry worn around the wrist. Traditional Indian forms include bangles, kadas, and flexible chain bracelets.",
+        "related": ["Gold", "Antique", "Bridal Set"]
+    },
+    "pendant": {
+        "definition": "A pendant is a loose-hanging piece of jewelry generally attached by a small loop to a necklace.",
+        "related": ["Necklace", "Mangalsutra", "Diamond"]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "classification_accuracy": 0.9489795918367347,
+    "confusion_matrix": {
+        "Ring": {
+            "Ring": 20,
+            "Necklace": 0,
+            "Earring": 0,
+            "Bracelet": 0,
+            "Pendant": 0
+        },
+        "Necklace": {
+            "Ring": 0,
+            "Necklace": 17,
+            "Earring": 0,
+            "Bracelet": 0,
+            "Pendant": 1
+        },
+        "Earring": {
+            "Ring": 0,
+            "Necklace": 0,
+            "Earring": 20,
+            "Bracelet": 0,
+            "Pendant": 0
+        },
+        "Bracelet": {
+            "Ring": 0,
+            "Necklace": 0,
+            "Earring": 1,
+            "Bracelet": 19,
+            "Pendant": 0
+        },
+        "Pendant": {
+            "Ring": 0,
+            "Necklace": 2,
+            "Earring": 1,
+            "Bracelet": 0,
+            "Pendant": 17
+        }
+    }
+}

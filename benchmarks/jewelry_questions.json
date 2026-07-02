@@ -1,0 +1,60 @@
+[
+    { "question": "What is Kundan?", "expected_keywords": ["gold foil", "gemstone", "kundan"] },
+    { "question": "How is Kundan jewelry made?", "expected_keywords": ["foil", "set", "kundan"] },
+    { "question": "Is Kundan used for bridal wear?", "expected_keywords": ["bridal", "kundan"] },
+    { "question": "What techniques are involved in Kundan?", "expected_keywords": ["foil", "kundan"] },
+    { "question": "Can Kundan have enamel on the back?", "expected_keywords": ["meenakari", "kundan"] },
+
+    { "question": "What is Polki?", "expected_keywords": ["uncut", "diamonds", "polki"] },
+    { "question": "Are Polki diamonds polished?", "expected_keywords": ["uncut", "unpolished", "polki"] },
+    { "question": "What technique sets Polki stones?", "expected_keywords": ["kundan", "polki"] },
+    { "question": "Is Polki a gemstone or a technique?", "expected_keywords": ["diamonds", "polki"] },
+    { "question": "Does Polki have raw brilliance?", "expected_keywords": ["raw", "brilliance", "polki"] },
+
+    { "question": "What is Jadau?", "expected_keywords": ["technique", "mughals", "jadau"] },
+    { "question": "Is Jadau a type of jewelry or a crafting method?", "expected_keywords": ["crafting technique", "jadau"] },
+    { "question": "Who brought Jadau to India?", "expected_keywords": ["mughals", "jadau"] },
+    { "question": "Does Jadau involve heating gold?", "expected_keywords": ["heated gold", "jadau"] },
+    { "question": "What styles are made using Jadau?", "expected_keywords": ["kundan", "polki", "jadau"] },
+
+    { "question": "What is Temple jewelry?", "expected_keywords": ["gods", "deities", "temple"] },
+    { "question": "Where does Temple jewelry originate?", "expected_keywords": ["south india", "temple"] },
+    { "question": "Is Temple jewelry worn by classical dancers?", "expected_keywords": ["dancers", "temple"] },
+    { "question": "What motifs are in Temple jewelry?", "expected_keywords": ["lakshmi", "god motif", "temple"] },
+    { "question": "What metal is traditionally used for Temple jewelry?", "expected_keywords": ["gold", "temple"] },
+
+    { "question": "What is Meenakari?", "expected_keywords": ["enamel", "coloring", "meenakari"] },
+    { "question": "Where is Meenakari usually applied?", "expected_keywords": ["reverse side", "surface", "meenakari"] },
+    { "question": "Does Meenakari involve fusing colors?", "expected_keywords": ["fusing", "colors", "meenakari"] },
+    { "question": "What jewelry style often pairs with Meenakari?", "expected_keywords": ["kundan", "meenakari"] },
+    { "question": "Is Meenakari used in Bikaneri style?", "expected_keywords": ["bikaneri", "meenakari"] },
+
+    { "question": "What is included in a Bridal Set?", "expected_keywords": ["necklace set", "choker", "bridal"] },
+    { "question": "Do Bridal sets include heavy necklaces?", "expected_keywords": ["heavy", "necklace", "bridal"] },
+    { "question": "What styles are popular for Bridal Sets?", "expected_keywords": ["kundan", "polki", "bridal"] },
+    { "question": "Are Maang Tikkas part of Bridal Sets?", "expected_keywords": ["headpiece", "bridal"] },
+    { "question": "Is a Choker set considered Bridal?", "expected_keywords": ["choker set", "bridal"] },
+
+    { "question": "What are Navaratna gemstones?", "expected_keywords": ["nine", "auspicious", "navaratna"] },
+    { "question": "Is Ruby a common gemstone in Indian jewelry?", "expected_keywords": ["ruby", "gemstone"] },
+    { "question": "What color is an Emerald?", "expected_keywords": ["green", "emerald"] },
+    { "question": "Are pearls used in Chandbali?", "expected_keywords": ["pearls", "chandbali"] },
+    { "question": "What is a Spinel gemstone?", "expected_keywords": ["spinel", "gemstone"] },
+
+    { "question": "What is Panchaloha?", "expected_keywords": ["five", "alloy", "panchaloha"] },
+    { "question": "What is the purity of 22K gold?", "expected_keywords": ["purity", "gold"] },
+    { "question": "Is Rose Gold used in contemporary jewelry?", "expected_keywords": ["contemporary", "rose gold"] },
+    { "question": "What is Oxidised Silver?", "expected_keywords": ["antique", "vintage", "oxidised"] },
+    { "question": "What metals are common in Kundan?", "expected_keywords": ["gold", "kundan"] },
+
+    { "question": "Difference between Polki and Kundan?", "expected_keywords": ["comparing", "polki", "kundan", "uncut"] },
+    { "question": "Difference between Temple Jewelry and Jadau?", "expected_keywords": ["comparing", "temple", "jadau", "gods", "technique"] },
+    { "question": "How does Meenakari differ from Kundan?", "expected_keywords": ["comparing", "meenakari", "kundan", "enamel", "foil"] },
+    { "question": "Jadau vs Polki?", "expected_keywords": ["comparing", "jadau", "polki"] },
+    { "question": "Difference between a Necklace and a Mangalsutra?", "expected_keywords": ["comparing", "necklace", "mangalsutra", "sacred"] },
+    { "question": "Chandbali vs Jhumka?", "expected_keywords": ["comparing", "chandbali", "jhumka", "crescent", "bell"] },
+    { "question": "What is the difference between Maang Tikka and Matha Patti?", "expected_keywords": ["comparing", "maang tikka", "matha patti", "headpiece"] },
+    { "question": "Difference between Antique and Contemporary jewelry?", "expected_keywords": ["comparing", "antique", "contemporary", "vintage", "modern"] },
+    { "question": "What distinguishes Gold from Panchaloha?", "expected_keywords": ["comparing", "gold", "panchaloha"] },
+    { "question": "Polki vs Diamond?", "expected_keywords": ["comparing", "polki", "diamond", "uncut"] }
+]

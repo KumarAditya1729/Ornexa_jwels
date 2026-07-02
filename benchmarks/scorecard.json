@@ -1,0 +1,7 @@
+{
+    "search_accuracy": 1.0,
+    "taxonomy_accuracy": 1.0,
+    "knowledge_accuracy": 0.86,
+    "classification_accuracy": 0.95,
+    "overall": 0.95
+}

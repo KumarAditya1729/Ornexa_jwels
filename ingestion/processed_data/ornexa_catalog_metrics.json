@@ -1,0 +1,43 @@
+{
+    "validated_products": 2,
+    "validated_events": 0,
+    "canonical_products": 2,
+    "knowledge_yield": 1.0,
+    "knowledge_density": 0.95,
+    "coverage_score": 0.18,
+    "mapping_confidence": 0.97,
+    "taxonomy_confidence": 1.0,
+    "ois": 73.5,
+    "covered_categories": [
+        "Ring",
+        "Necklace",
+        "Traditional"
+    ],
+    "missing_categories": [
+        "Antique",
+        "Kundan",
+        "Temple",
+        "Bridal Set",
+        "Headpiece",
+        "Contemporary",
+        "Waistbelt",
+        "Polki",
+        "Bracelet",
+        "Armlet",
+        "Jadau",
+        "Earrings",
+        "Anklet",
+        "Meenakari"
+    ],
+    "top_categories": [
+        "Ring",
+        "Necklace"
+    ],
+    "top_metals": [
+        "Gold"
+    ],
+    "top_gemstones": [
+        "Diamond",
+        "Ruby"
+    ]
+}

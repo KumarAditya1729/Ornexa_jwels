@@ -1,0 +1,79 @@
+[
+    {
+        "description": "Kundan Meenakari Bridal Necklace",
+        "expected": {
+            "category": "Necklace",
+            "style": ["Kundan", "Meenakari"]
+        }
+    },
+    {
+        "description": "Temple Gold Ruby Jhumka",
+        "expected": {
+            "category": "Earrings",
+            "subcategory": "Jhumka",
+            "style": ["Temple"],
+            "gemstones": ["Ruby"]
+        }
+    },
+    {
+        "description": "Navaratna Mangalsutra",
+        "expected": {
+            "category": "Necklace",
+            "subcategory": "Mangalsutra",
+            "gemstones": ["Navaratna"]
+        }
+    },
+    {
+        "description": "Polki Chandbali",
+        "expected": {
+            "category": "Earrings",
+            "subcategory": "Chandbali",
+            "style": ["Polki"]
+        }
+    },
+    {
+        "description": "Jadau Bridal Set",
+        "expected": {
+            "category": "Bridal Set",
+            "style": ["Jadau"]
+        }
+    },
+    {
+        "description": "Matha Patti",
+        "expected": {
+            "category": "Headpiece",
+            "subcategory": "Matha Patti"
+        }
+    },
+    {
+        "description": "Silver Anklet",
+        "expected": {
+            "category": "Anklet",
+            "metal_type": "Silver"
+        }
+    },
+    {
+        "description": "Antique Gold Vaddanam",
+        "expected": {
+            "category": "Waistbelt",
+            "subcategory": "Vaddanam",
+            "style": ["Antique"],
+            "metal_type": "Gold"
+        }
+    },
+    {
+        "description": "Diamond Solitaire Ring",
+        "expected": {
+            "category": "Ring",
+            "gemstones": ["Diamond"]
+        }
+    },
+    {
+        "description": "Uncut diamond and gold bangle",
+        "expected": {
+            "category": "Bracelet",
+            "style": ["Polki"],
+            "metal_type": "Gold"
+        }
+    }
+]

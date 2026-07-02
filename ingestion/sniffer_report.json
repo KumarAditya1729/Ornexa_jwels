@@ -1,0 +1,151 @@
+{
+    "datasets": [
+        {
+            "dataset_name": "cartier_catalog.csv",
+            "filepath": "processed_data/extracted_archive (9)/cartier_catalog.csv",
+            "rows": 692,
+            "columns": [
+                "ref",
+                "categorie",
+                "title",
+                "price",
+                "tags",
+                "description",
+                "image"
+            ],
+            "sample_values": {
+                "ref": [
+                    "B4084900",
+                    "B4084600",
+                    "B4084800"
+                ],
+                "categorie": [
+                    "rings"
+                ],
+                "title": [
+                    "Love ring"
+                ],
+                "price": [
+                    "3650.0",
+                    "1650.0"
+                ],
+                "tags": [
+                    "yellow gold",
+                    "platinum",
+                    "pink gold"
+                ],
+                "description": [
+                    "Love ring, 950/1000 platinum. Width: 5.5mm.",
+                    "Love ring, 18K yellow gold. Width: 5.5mm.",
+                    "Love ring, 18K rose gold. Width: 5.5mm."
+                ],
+                "image": [
+                    "/content/dam/rcq/car/19/43/98/1/1943981.png",
+                    "/content/dam/rcq/car/58/71/74/587174.png",
+                    "/content/dam/rcq/car/10/28/64/0/1028640.png"
+                ]
+            },
+            "candidate_mappings": {
+                "ref": "UNKNOWN",
+                "categorie": "UNKNOWN",
+                "title": "product_name",
+                "price": "price",
+                "tags": "collection_name",
+                "description": "description",
+                "image": "images"
+            },
+            "mapping_confidence": 0.71
+        },
+        {
+            "dataset_name": "jewelry.csv",
+            "filepath": "processed_data/extracted_archive/jewelry.csv",
+            "rows": 95911,
+            "columns": [],
+            "sample_values": {},
+            "candidate_mappings": {},
+            "mapping_confidence": 0
+        },
+        {
+            "dataset_name": "dataset_labels.csv",
+            "filepath": "processed_data/extracted_dataset/dataset/dataset_labels.csv",
+            "rows": 6156,
+            "columns": [
+                "image_path",
+                "description"
+            ],
+            "sample_values": {
+                "image_path": [
+                    "bracelet\\$_3.jpeg",
+                    "bracelet\\01D7PTXV8C7F.jpg",
+                    "bracelet\\00G0FPIT4D9J.jpg"
+                ],
+                "description": [
+                    "A pair of matte black metal cuff bracelets, one engraved with \"MG,\" shown open and closed.",
+                    "A stack of eight bracelets in varying shades of blue and silver, featuring beads, stones, and metallic elements.",
+                    "A bronze bracelet featuring a golden sphere between two stylized wings."
+                ]
+            },
+            "candidate_mappings": {
+                "image_path": "images",
+                "description": "description"
+            },
+            "mapping_confidence": 1.0
+        },
+        {
+            "dataset_name": "cartier_catalog.csv",
+            "filepath": "processed_data/extracted_archive (6)/cartier_catalog.csv",
+            "rows": 692,
+            "columns": [
+                "ref",
+                "categorie",
+                "title",
+                "price",
+                "tags",
+                "description",
+                "image"
+            ],
+            "sample_values": {
+                "ref": [
+                    "B4084900",
+                    "B4084600",
+                    "B4084800"
+                ],
+                "categorie": [
+                    "rings"
+                ],
+                "title": [
+                    "Love ring"
+                ],
+                "price": [
+                    "3650.0",
+                    "1650.0"
+                ],
+                "tags": [
+                    "yellow gold",
+                    "platinum",
+                    "pink gold"
+                ],
+                "description": [
+                    "Love ring, 950/1000 platinum. Width: 5.5mm.",
+                    "Love ring, 18K yellow gold. Width: 5.5mm.",
+                    "Love ring, 18K rose gold. Width: 5.5mm."
+                ],
+                "image": [
+                    "/content/dam/rcq/car/19/43/98/1/1943981.png",
+                    "/content/dam/rcq/car/58/71/74/587174.png",
+                    "/content/dam/rcq/car/10/28/64/0/1028640.png"
+                ]
+            },
+            "candidate_mappings": {
+                "ref": "UNKNOWN",
+                "categorie": "UNKNOWN",
+                "title": "product_name",
+                "price": "price",
+                "tags": "collection_name",
+                "description": "description",
+                "image": "images"
+            },
+            "mapping_confidence": 0.71
+        }
+    ]
+}
